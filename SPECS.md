@@ -6,14 +6,14 @@
   - JWT
   - Social Login (Github, Twitter)
 - **Authorization**
-  - Userroles
+  - User Roles
 - **API Support**
   - Dynamic Implementation ([pattern migrated](https://github.com/app-generator/devtool-django-dynamic-api) from `Django`)
 - **DataTables Support**
   - Paginated data, search. export, server side pagination
   - Dynamic Implementation ([pattern migrated](https://github.com/app-generator/devtool-django-dynamic-datatb) from `Django`)
 - **ORM**
-  - To be discused - [Here is a comparision
+  - To be discused - Here is a comparision:
     - https://romeerez.hashnode.dev/nodejs-orms-overview-and-comparison
   - `Sequelize`
   - `TypeORM`
