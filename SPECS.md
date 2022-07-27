@@ -26,6 +26,9 @@
 - Middlewere 
   - [morgan](https://expressjs.com/en/resources/middleware/morgan.html) is a logging utility
   - [cors](http://expressjs.com/en/resources/middleware/cors.html) - utility for configuring cross-origin request security
+- Background tasks 
+  - Async execution (full management):
+    - create, cancel, check status 
   
 <br />
 
