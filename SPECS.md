@@ -5,6 +5,8 @@
 - **Authentication**
   - JWT
   - Social Login (Github, Twitter)
+- **Authorization**
+  - Userroles
 - **API Support**
   - Dynamic Implementation ([pattern migrated](https://github.com/app-generator/devtool-django-dynamic-api) from `Django`)
 - **DataTables Support**
