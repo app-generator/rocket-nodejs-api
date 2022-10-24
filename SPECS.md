@@ -6,7 +6,11 @@
   - JWT
   - Social Login (Github, Twitter)
 - **Authorization**
-  - User Roles
+  - User Roles: Admins, Commer Users
+- **Users profile**
+  - Saves the profile information for users + Image
+  - Admins can edit all users
+  - Common users can edit their own profile
 - **API Support**
   - Dynamic Implementation ([pattern migrated](https://github.com/app-generator/devtool-django-dynamic-api) from `Django`)
 - **DataTables Support**
@@ -18,9 +22,8 @@
   - `Sequelize`
   - `TypeORM`
 - **Storage** - used by upload
-  - FTP
+  - Local
   - AWS
-  - GCP 
 - Deployment
   - `Docker` 
 - Middlewere 
